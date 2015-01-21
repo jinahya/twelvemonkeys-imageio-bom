@@ -6,7 +6,7 @@
   <!-- The Basics -->
   <groupId>com.github.jinahya</groupId>
   <artifactId>twelvemonkeys-imageio-bom</artifactId>
-  <version>3.0.2-alpha-1-SNAPSHOT</version>
+  <version>3.0.2-alpha-1</version>
   <packaging>pom</packaging>
   <parent>
     <groupId>org.sonatype.oss</groupId>
@@ -82,7 +82,7 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
-  <dependencies/>
+  <dependencies />
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -273,7 +273,7 @@
     <connection>scm:git:git@github.com:jinahya/twelvemonkeys-imageio-bom.git</connection>
     <developerConnection>scm:git:git@github.com:jinahya/twelvemonkeys-imageio-bom.git</developerConnection>
     <url>https://github.com/jinahya/twelvemonkeys-imageio-bom</url>
-    <tag>HEAD</tag>
+    <tag>3.0.2-alpha-1</tag>
   </scm>
   <prerequisites>
     <maven>3.1.1</maven>
